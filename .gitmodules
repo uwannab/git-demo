@@ -1,0 +1,3 @@
+[submodule "submoduleTraining"]
+	path = submoduleTraining
+	url = https://github.com/uwannab/submoduleTraining.git
